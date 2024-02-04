@@ -1,4 +1,4 @@
-# Resumen sobre Sistemas Operativos y Kernels 
+# Ejecutar un CRON 
 
 ## Nombre: Joshua Franco 
 ## ID: 201708845 
