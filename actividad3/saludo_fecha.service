@@ -1,0 +1,9 @@
+[Unit]
+Description=Saludo y Fecha
+
+[Service]
+ExecStart=/ruta/a/saludo_fecha.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
