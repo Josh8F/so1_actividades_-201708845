@@ -1,6 +1,6 @@
-#Actividad 3
+# Actividad 3
 ----
-##Pasos para crear un servicio de systemd
+## Pasos para crear un servicio de systemd
 - Crear el script: 
 Se crea un script, para este ejemplo se utilizó el script del archivo saludo.sh, además hace falta darle permisos de ejecución.
 
